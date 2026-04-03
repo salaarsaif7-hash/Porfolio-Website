@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+         "I'm Saifullah Haneef, a MERN Stack Developer trained at Sheriyan Coding School and Cohort AI Development, dedicated to building scalable full-stack applications and solving real-world problems with clean code."
         </p>
       </div>
     </div>
