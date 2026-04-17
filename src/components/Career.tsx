@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Frontend Developer</h4>
+                <h5>Freelance Collaboration</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Joined a friend who was working in freelancing as a Frontend Developer. 
+              Collaborated on multiple projects together, gaining hands-on experience 
+              in building modern web interfaces and delivering client projects.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Developer</h4>
+                <h5>Sheryan's Cohort 1</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Joined Sheryan's Cohort 1 and leveled up to Full Stack Development. 
+              Learned and built almost everything from there — from frontend to backend. 
+              Also completed a 6-month internship at Mountech, where I applied my 
+              skills in a real-world professional environment.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack & DevOps Engineer</h4>
+                <h5>Freelance & Startup</h5>
               </div>
               <h3>NOW</h3>
             </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            <p>   Currently expanding into DevOps Engineering alongside Full Stack Development. 
+              About to launch freelancing services and actively working on my own startup 
+              idea — building it from the ground up. InshAllah, it will be live soon!
             </p>
           </div>
         </div>

@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+              <a href="mailto:saifullahhaneef233@gmail.com" data-cursor="disable">
+                saifullahhaneef233@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
@@ -24,7 +24,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
+              href="https://github.com/salaarsaif7-hash"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -32,7 +32,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com"
+             href="https://www.linkedin.com/in/saifullah-haneef"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -40,26 +40,24 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/saifullahmuhammadhaneef"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
               Instagram <MdArrowOutward />
             </a>
+             <a href="https://wa.me/923705206160"
+  target="_blank"
+  data-cursor="disable"
+  className="contact-social"
+>
+  WhatsApp <MdArrowOutward />
+</a>
+
           </div>
+    
           <div className="contact-box">
-            <h2>
-              Mern Stack Develpor <br /> by <span>Saifullah Haneef</span>
-            </h2>
             <h5>
               <MdCopyright /> 2026
             </h5>
