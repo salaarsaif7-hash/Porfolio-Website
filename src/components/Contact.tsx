@@ -47,7 +47,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/saifullah-haneef"
+              href="www.linkedin.com/in/saifullah-haneef-a78984317"
               target="_blank"
               rel="noopener noreferrer"
               data-cursor="disable"
