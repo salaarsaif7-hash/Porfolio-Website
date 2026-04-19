@@ -37,7 +37,7 @@ const Career = () => {
             <p>
               Joined Sheryan's Cohort 1 and leveled up to Full Stack Development. 
               Learned and built almost everything from there — from frontend to backend. 
-              Also completed a 6-month internship at Mountech, where I applied my 
+              Also completed a 6-month internship at MachknowSoft, where I applied my 
               skills in a real-world professional environment.
             </p>
           </div>
