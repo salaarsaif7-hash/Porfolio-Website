@@ -14,21 +14,21 @@ const projects = [
   {
     title: "Project",
     category: "Web App",
-    tools: "Nextjs, TypeScript, NodeJS Framer-motion,",
+    tools: "Nextjs, TypeScript, NodeJS, Framer-motion",
     image: project1,
     link: "https://clearafm.com/en",
   },
   {
     title: "Project",
     category: "E-commerce",
-    tools: "Nextjs, TypeScript,Framer-motion,TailwindCSS,",
+    tools: "Nextjs, TypeScript, Framer-motion, TailwindCSS",
     image: project2,
     link: "https://www.salaar.store/",
   },
   {
     title: "Project",
     category: "Crypto Signal Bot",
-    tools: "Nextjs,TypeScript,NodeJS,Socket,Expressjs",
+    tools: "Nextjs, TypeScript, NodeJS, Socket, Expressjs",
     image: project3,
     link: "https://trdzcom.vercel.app/",
   },
@@ -38,6 +38,9 @@ const Work = () => {
   const sectionRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
+    const isMobile = window.innerWidth <= 768;
+    if (isMobile) return;
+
     const section = sectionRef.current;
     const boxes = document.querySelectorAll(".work-box");
     const container = document.querySelector(".work-container");
@@ -101,13 +104,11 @@ const Work = () => {
               <div className="work-info">
                 <div className="work-title">
                   <h3>0{index + 1}</h3>
-
                   <div>
                     <h4>{project.title}</h4>
                     <p>{project.category}</p>
                   </div>
                 </div>
-
                 <h4>Tools and Features</h4>
                 <p>{project.tools}</p>
               </div>
